@@ -1,0 +1,12 @@
+## Parametros grilla
+
+center_x = 15.71
+center_y = 53.24
+center_z = 15.65
+size_x = 20
+size_y = 20
+size_z = 20
+
+## Comando ejemplo
+
+smina -r receptor.pdbqt -l ligand.pdbqt --center_x 15.71 --center_y 53.24 --center_z 15.65 --size_x 20 --size_y 20 --size_z 20 -o result.pdb
